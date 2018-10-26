@@ -1,0 +1,35 @@
+body{
+  margin:0;
+
+}
+.navbar-default {
+  background-color: white;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+.container__main{
+  background-color: silver;
+  height: 40vh;
+  padding: 40px;
+}
+
+.header__main < img{
+width: 100vw;
+}
+
+.header__main{
+  font-family:"Roboto";
+  color: white;
+  background-image: url(../img/post-image.jpg);
+  height: 60vh;
+}
+
+
+h1{
+  margin: 0;
+}

@@ -1,0 +1,76 @@
+body{
+  padding-top: 20px;
+  margin: auto;
+  font-family:"Roboto";
+  font-size: 14px;
+}
+h3 {
+  font-family:"Playfair Display";
+}
+
+h6 {
+  font-size: 0.8em;
+}
+li {
+  list-style-type: none;
+}
+
+.navbar-default {
+  background-color: white;
+  border: none;
+  height: auto;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+.navbar-brand{
+  height: auto;
+  padding: 5px 15px 5px 5px;
+}
+
+.navbar__logo {
+  height: 50px;
+  min-height: auto;
+}
+.header-top {
+  background: url(../img/noticia2c.jpg) no-repeat center / cover transparent;
+  height:350px;
+}
+
+.header__button{
+  background-color: transparent;
+  border: solid 1px white;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+.contacto{
+  padding: 40px;
+}
+.icon__contacto{
+  color:black;
+  font-size: 15px;
+  margin-right: 5px;
+}
+
+.inscribete{
+  background-color: #3498DB;
+  max-height:400px;
+  padding: 30px;
+  color: white;
+  text-align: center;
+
+}
+
+footer{
+  background-color: #F2F2F2;
+  height: 150px;
+  padding: 20px;
+  color: black;
+  text-align: center;
+}
+.icon__footer{
+  height : 30px;
+  margin-top: 5px;
+}

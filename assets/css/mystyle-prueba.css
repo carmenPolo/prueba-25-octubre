@@ -1,0 +1,89 @@
+body{
+  padding-top: 60px;
+  margin: auto;
+  font-family:"Roboto";
+  font-size: 14px;
+}
+
+header{
+  margin: 0 auto;
+}
+
+h3 {
+  font-family:"Playfair Display";
+}
+
+h6 {
+  font-size: 0.8em;
+}
+
+.navbar-default {
+  background-color: white;
+  border: none;
+  height: auto;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+.navbar-brand{
+  height: auto;
+  padding: 5px 15px 5px 5px;
+}
+
+.navbar__logo {
+  height: 50px;
+  min-height: auto;
+}
+
+.header-top{
+  background-color: #3498DB;
+  max-height:400px;
+  padding: 50px;
+  color: white;
+  font-family:"Playfair Display";
+  text-align: center;
+  font-style: italic;
+}
+
+.header-middle {
+  background: url(../img/banner.jpg) no-repeat center / cover transparent;
+  height:350px;
+
+}
+.header-bottom{
+  background-color: #3498DB;
+  color: white;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
+
+}
+
+.header__button{
+  background-color: transparent;
+  border: solid 1px white;
+  color: white;
+  text-transform: uppercase;
+}
+
+.noticias{
+  padding: 25px;
+}
+
+.icon__noticias{
+  color: silver;
+  font-size: 30px
+}
+
+footer{
+  background-color: #F2F2F2;
+  height:150px;
+  padding: 20px;
+  color: black;
+  text-align: center;
+}
+.icon__footer{
+height : 30px;
+margin-top: 5px;
+}
